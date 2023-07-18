@@ -8,3 +8,6 @@ INSERT INTO `makanan` (`id_makanan`, `nama_makanan`, `harga_makanan`, `warung`, 
 
 ## Query Tampilkan Data Dari Table
 SELECT * FROM 'makanan'
+
+## Query tampilkan satu data berdasarkan id
+SELECT * FROM 'makanan' 
